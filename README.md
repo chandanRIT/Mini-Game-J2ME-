@@ -1,4 +1,4 @@
-Mini-Game-J2ME-
+Brick-Breaker (mini-game on J2ME)
 ===============
 
 Mini Game developed during Undergrad in 2010 for a competition. 
